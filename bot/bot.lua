@@ -206,12 +206,17 @@ function create_config( )
   config = {
     enabled_plugins = {
       "banhammer",
+      "arabic_lock",
       "channels",
       "greeter",
       "join",
-      "tagall",
+      "calculator",
       "autoleave",
       "groupmanager",
+      "chat",
+      "broadcast",
+      "robot",
+      "sudo",
       "help",
       "id",
       "invite",
